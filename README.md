@@ -3,7 +3,7 @@
 Python `boilerplate-arithmetic-formatter` assignment for [**FreeCodeCamp**][assignment-url]. The section below explains all of the steps required to complete this assignment.
 
 
-**Run Code Here**: [**Repl.it**][repl-link] 
+
 
 
 ### Assignment
